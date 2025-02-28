@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.verve",
-    "version": "5.0.2",
+    "version": "5.0.3",
     "displayName": "Chartboost Mediation Adapter - Verve",
     "description": "The Chartboost Mediation Unity SDK Adapter for Verve.",
     "unity": "2022.3",
