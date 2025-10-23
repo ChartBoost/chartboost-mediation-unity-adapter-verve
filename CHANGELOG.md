@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.7 *(2025-10-10)*
+This version of the Verve Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-verve:5.3.6.+`
+  * iOS: `ChartboostMediationAdapterVerve: ~> 5.3.6.0`
+
 ### Version 5.0.6 *(2025-10-10)*
 This version of the Verve Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-verve:5.3.3.+`
