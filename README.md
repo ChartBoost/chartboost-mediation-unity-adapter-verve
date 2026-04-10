@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Verve Adapter to your proje
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.verve": "5.0.7",
+    "com.chartboost.mediation.unity.adapter.verve": "5.0.8",
     ...
 },
 "scopedRegistries": [

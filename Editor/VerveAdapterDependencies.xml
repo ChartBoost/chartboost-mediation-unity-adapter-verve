@@ -11,9 +11,9 @@
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
-        <iosPod name="ChartboostMediationAdapterVerve" version="~> 5.3.6.0"/>
+        <iosPod name="ChartboostMediationAdapterVerve" version="~> 5.3.7.0"/>
 
         <!-- Partner iOS SDK-->
-        <iosPod name="HyBid" version="~> 3.6.0" addToAllTargets="true"/>
+        <iosPod name="HyBid" version="~> 3.7.0" addToAllTargets="true"/>
     </iosPods>
 </dependencies>
