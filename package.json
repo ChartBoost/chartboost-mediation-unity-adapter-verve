@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.verve",
-    "version": "5.0.8",
+    "version": "5.0.9",
     "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - Verve",
     "description": "The Chartboost Mediation Unity SDK Adapter for Verve.",
